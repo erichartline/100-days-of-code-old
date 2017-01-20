@@ -2,13 +2,13 @@
 
 ### Day 16: 1/19/2017
 
-**Today's Progress**
+**Today's Progress** I spent a good hour playing around with Git.
 
-**Thoughts**
+**Thoughts** I intended to work more on my CS50 assignments but got sidetracked with Git and GitHub. I was tired of not getting credit for my commits in this repo, so I cloned my old fork and started a new one. Silly, maybe, but it did help me get familiar with some other commands besides the same four I use everyday.
 
 **Link(s) to work**
 
-1. 
+1. [100DaysOfCode](https://github.com/wildlifehexagon/100-days-of-code)
 
 ### Day 15: 1/18/2017
 
