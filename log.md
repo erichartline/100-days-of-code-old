@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 17: 1/20/2017
+
+**Today's Progress** I worked on Problem Set 2 of CS50.
+
+**Thoughts** Nearly done with Caear's Cipher, will be finishing tomorrow.
+
+**Link(s) to work**
+
+1. N/A
+
 ### Day 16: 1/19/2017
 
 **Today's Progress** I spent a good hour playing around with Git.
@@ -12,7 +22,7 @@
 
 ### Day 15: 1/18/2017
 
-**Today's Progress** I worked on Problem Set 2 on CS50.
+**Today's Progress** I worked on Problem Set 2 of CS50.
 
 **Thoughts** I finished `initials.c` and started the Caesars Cipher challenge. After spending so much time coding in JavaScript the last few days, it took me a minute to get back into C. Feeling more optimistic now though, and looking forward to finishing this challenge tomorrow.
 
