@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 18: 1/21/2017
+
+**Today's Progress** I finished the Caesars Cipher challenge in Problem Set 2 of CS50. I also spent a few hours working on my pomodoro clock project.
+
+**Thoughts** I noticed that Free Code Camp released the beta version of their new curriculum today, and I immediately got excited. I really like that the projects now have their own built-in test cases, and they require each of them to pass before you can move on. I saw that they are looking for QA testing on the pomodoro clock challenge, so I reworked my current version to match their criteria. Currently I am passing 15/26 of the tests, and I'm feeling a bit optimistic that I could finish it within the next week. Of course, that would mean having to do that instead of CS50. I have been going back and forth on that... I'm already feeling the benefits of CS50, but I also really want to get my front end certification before FCC switches over. Right now I'm leaning toward just doing that, especially since I am loving the clock project.
+
+**Link(s) to work**
+
+1. [Pomodoro Clock](https://github.com/wildlifehexagon/freeCodeCamp/tree/master/advanced-front-end-development-projects/pomodoro-clock)
+
 ### Day 17: 1/20/2017
 
 **Today's Progress** I worked on Problem Set 2 of CS50.
