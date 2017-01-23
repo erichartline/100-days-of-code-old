@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 19: 1/22/2017
+
+**Today's Progress** I worked on my pomodoro clock project.
+
+**Thoughts** Struggling a bit with getting my JavaScript timers to work properly. My code is a bit of a mess right now, but I feel like I am getting there. Currently 17/26 of the test cases passing.
+
+**Link(s) to work**
+
+1. [Pomodoro Clock](https://github.com/wildlifehexagon/freeCodeCamp/tree/master/advanced-front-end-development-projects/pomodoro-clock)
+
 ### Day 18: 1/21/2017
 
 **Today's Progress** I finished the Caesars Cipher challenge in Problem Set 2 of CS50. I also spent a few hours working on my pomodoro clock project.
