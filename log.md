@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 20: 1/23/2017
+
+**Today's Progress** I worked through some of freeCodeCamp's beta curriculum.
+
+**Thoughts** It was a long day, so I decided to unwind by working through some of FCC's new challenges. I'm loving the new material, but there are definitely some bugs to fix. I sent in a request to see the best way of fixing some minor issues (such as a handful of typos I've found). Really excited to help out, even if they are just small items.
+
+**Link(s) to work**
+
+1. N/A
+
 ### Day 19: 1/22/2017
 
 **Today's Progress** I worked on my pomodoro clock project.
