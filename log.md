@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 21: 1/24/2017
+
+**Today's Progress** I worked on Chingu Challenge 1 on HackerRank.
+
+**Thoughts** I sent in two successful submissions, but for some reason I cannot get the "multiples of 3 and 5" challenge to pass. I'm getting the correct answer for two of the three test cases, and all of them work when I run the script outside of HackerRank, so I'm not sure why it's not officially passing. Will sleep on it and try to figure it out tomorrow. Was a good session at least!
+
+**Link(s) to work**
+
+1. [Chingu Challenge Leaderboard](https://www.hackerrank.com/contests/chingu-startup/leaderboard)
+
 ### Day 20: 1/23/2017
 
 **Today's Progress** I worked through some of freeCodeCamp's beta curriculum.
