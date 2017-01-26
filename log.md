@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 22: 1/25/2017
+
+**Today's Progress** I worked through some of freeCodeCamp's beta curriculum.
+
+**Thoughts** Currently going through the Applied Visual Design track. Great stuff so far! Have only found a handful of bugs/typos, and plan on fixing some of them for FCC tomorrow.
+
+**Link(s) to work**
+
+1. N/A
+
 ### Day 21: 1/24/2017
 
 **Today's Progress** I worked on Chingu Challenge 1 on HackerRank.
