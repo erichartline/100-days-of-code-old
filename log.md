@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 23: 1/26/2017
+
+**Today's Progress** I worked through some of freeCodeCamp's beta curriculum.
+
+**Thoughts** Finished up the Applied Visual Design track. Got a good list of fixes I plan on making but didn't get the chance to send my pull request tonight.
+
+**Link(s) to work**
+
+1. N/A
+
 ### Day 22: 1/25/2017
 
 **Today's Progress** I worked through some of freeCodeCamp's beta curriculum.
