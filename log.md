@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 24: 1/27/2017
+
+**Today's Progress** I went to a Free Code Camp meetup. While I was there, I submitted my most extensive pull request yet to FCC (about 20 changes total)
+
+**Thoughts** There were only three of us at the meetup this time, but I think we all got in a good coding session. For my pull request, I went through one of the new tracks and fixed a bunch of typos and other small mistakes I found. Even though my changes were so small, it ended up being a great learning experience. I had to re-setup my local FCC repo, and also had to figure out why `npm run test` wasn't working on my machine again. Kind of annoying Windows-only bug related to that -- you have to use `npm run test-challenges` instead, otherwise you get a million error messages. Issues like that are making me ponder using Linux again for my coding endeavors.
+
+**Link(s) to work**
+
+1. [Pull Request](https://github.com/freeCodeCamp/freeCodeCamp/pull/12932)
+
 ### Day 23: 1/26/2017
 
 **Today's Progress** I worked through some of freeCodeCamp's beta curriculum.
