@@ -1,8 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 25: 1/28/2017
+
+**Today's Progress** I worked on my Pomodoro clock and also re-submitted my FCC pull request.
+
+**Thoughts** I worked on my clock most of the day but don't know that I made great progress. I still need to figure out how to get the timer to pause properly, among other things. I think I'm at 18/26 test cases passing. For the pull request, I made a slight change and got it accepted! Felt pretty good to get that through.
+
+**Link(s) to work**
+
+1. [Pomodoro Clock](https://github.com/wildlifehexagon/freeCodeCamp/tree/master/advanced-front-end-development-projects/pomodoro-clock)
+
 ### Day 24: 1/27/2017
 
-**Today's Progress** I went to a Free Code Camp meetup. While I was there, I submitted my most extensive pull request yet to FCC (about 20 changes total)
+**Today's Progress** I went to a Free Code Camp meetup. While I was there, I submitted my most extensive pull request yet to FCC (about 20 changes total).
 
 **Thoughts** There were only three of us at the meetup this time, but I think we all got in a good coding session. For my pull request, I went through one of the new tracks and fixed a bunch of typos and other small mistakes I found. Even though my changes were so small, it ended up being a great learning experience. I had to re-setup my local FCC repo, and also had to figure out why `npm run test` wasn't working on my machine again. Kind of annoying Windows-only bug related to that -- you have to use `npm run test-challenges` instead, otherwise you get a million error messages. Issues like that are making me ponder using Linux again for my coding endeavors.
 
