@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 26: 1/29/2017
+
+**Today's Progress** I worked on my Pomodoro clock.
+
+**Thoughts** I scrapped my countdown function since it was a bumbled mess of if/else conditionals. I did some research and found some other options that could work better. I also cleaned up my add/subtract functions.
+
+**Link(s) to work**
+
+1. [Pomodoro Clock](https://github.com/wildlifehexagon/freeCodeCamp/tree/master/advanced-front-end-development-projects/pomodoro-clock)
+
 ### Day 25: 1/28/2017
 
 **Today's Progress** I worked on my Pomodoro clock and also re-submitted my FCC pull request.
