@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 27: 1/30/2017
+
+**Today's Progress** I worked on some Codewars challenges.
+
+**Thoughts** I was pretty pleased with myself for solving a "7 kyu" challenge using the `map` method. It felt good doing some of these algorithms -- they are a nice reprieve from other projects from time to time.
+
+**Link(s) to work**
+
+1. [Codewars](https://www.codewars.com/users/wildlifehexagon)
+
 ### Day 26: 1/29/2017
 
 **Today's Progress** I worked on my Pomodoro clock.
