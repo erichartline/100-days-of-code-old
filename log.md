@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 28: 2/1/2017
+
+**Today's Progress** I worked on my Pomodoro clock.
+
+**Thoughts** I missed yesterday since it was my wife and I's anniversary, but I got right back on track tonight. I was feeling motivated to work on my clock project, so I focused entirely on that. I'm feeling more optimistic about it now than I have in a while. I feel like I'm close to getting the logic to work. The start and reset buttons are working, now I just need to figure out how I want to handle the stop button and also get the minutes and seconds to display properly.
+
+**Link(s) to work**
+
+1. [Pomodoro Clock](https://github.com/wildlifehexagon/freeCodeCamp/tree/master/advanced-front-end-development-projects/pomodoro-clock)
+
 ### Day 27: 1/30/2017
 
 **Today's Progress** I worked on some Codewars challenges.
@@ -82,7 +92,7 @@
 
 ### Day 19: 1/22/2017
 
-**Today's Progress** I worked on my pomodoro clock project.
+**Today's Progress** I worked on my Pomodoro clock project.
 
 **Thoughts** Struggling a bit with getting my JavaScript timers to work properly. My code is a bit of a mess right now, but I feel like I am getting there. Currently 17/26 of the test cases passing.
 
@@ -92,9 +102,9 @@
 
 ### Day 18: 1/21/2017
 
-**Today's Progress** I finished the Caesars Cipher challenge in Problem Set 2 of CS50. I also spent a few hours working on my pomodoro clock project.
+**Today's Progress** I finished the Caesars Cipher challenge in Problem Set 2 of CS50. I also spent a few hours working on my Pomodoro clock project.
 
-**Thoughts** I noticed that Free Code Camp released the beta version of their new curriculum today, and I immediately got excited. I really like that the projects now have their own built-in test cases, and they require each of them to pass before you can move on. I saw that they are looking for QA testing on the pomodoro clock challenge, so I reworked my current version to match their criteria. Currently I am passing 15/26 of the tests, and I'm feeling a bit optimistic that I could finish it within the next week. Of course, that would mean having to do that instead of CS50. I have been going back and forth on that... I'm already feeling the benefits of CS50, but I also really want to get my front end certification before FCC switches over. Right now I'm leaning toward just doing that, especially since I am loving the clock project.
+**Thoughts** I noticed that Free Code Camp released the beta version of their new curriculum today, and I immediately got excited. I really like that the projects now have their own built-in test cases, and they require each of them to pass before you can move on. I saw that they are looking for QA testing on the Pomodoro clock challenge, so I reworked my current version to match their criteria. Currently I am passing 15/26 of the tests, and I'm feeling a bit optimistic that I could finish it within the next week. Of course, that would mean having to do that instead of CS50. I have been going back and forth on that... I'm already feeling the benefits of CS50, but I also really want to get my front end certification before FCC switches over. Right now I'm leaning toward just doing that, especially since I am loving the clock project.
 
 **Link(s) to work**
 
@@ -134,7 +144,7 @@
 
 **Today's Progress** I watched CS50's Week 2 lecture and completed a handful of Codewars katas.
 
-**Thoughts** While I am eager to continue working on my pomodoro clock, I also want to stay focused on CS50. I watched this week's lecture (nearly two hours again) and took a peek at the new problem sets. They don't look too bad this week -- one of them is a variation of Caesar's Cipher, which I have already built in JavaScript for FCC. I'll most likely continue working on CS50 first this week, then plan on another marathon coding session on Saturday for my clock project.
+**Thoughts** While I am eager to continue working on my Pomodoro clock, I also want to stay focused on CS50. I watched this week's lecture (nearly two hours again) and took a peek at the new problem sets. They don't look too bad this week -- one of them is a variation of Caesar's Cipher, which I have already built in JavaScript for FCC. I'll most likely continue working on CS50 first this week, then plan on another marathon coding session on Saturday for my clock project.
 
 **Link(s) to work**
 
@@ -142,9 +152,9 @@
 
 ### Day 13: 1/16/2017
 
-**Today's Progress** I finished my calculator (!), then I immediately started working on my next project: the pomodoro clock.
+**Today's Progress** I finished my calculator (!), then I immediately started working on my next project: the Pomodoro clock.
 
-**Thoughts** I skipped yesterday because it was my wife's birthday, and we were busy celebrating all day. I made up for it today by coding for several hours, however. After cleaning up some noticeable bugs in my calculator (like banning multiple decimals), I decided to push out the end product as my final version. Someday I would like to add working keyboard input, but for now I really want to keep on trucking through the FCC curriculum. I started my pomodoro clock immediately after submitting the calculator, and I feel like I have already made some decent progress. Getting the timer to work properly seems like it might be tricky, but I am looking forward to the challenge!
+**Thoughts** I skipped yesterday because it was my wife's birthday, and we were busy celebrating all day. I made up for it today by coding for several hours, however. After cleaning up some noticeable bugs in my calculator (like banning multiple decimals), I decided to push out the end product as my final version. Someday I would like to add working keyboard input, but for now I really want to keep on trucking through the FCC curriculum. I started my Pomodoro clock immediately after submitting the calculator, and I feel like I have already made some decent progress. Getting the timer to work properly seems like it might be tricky, but I am looking forward to the challenge!
 
 **Link(s) to work**
 
