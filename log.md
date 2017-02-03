@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 29: 2/2/2017
+
+**Today's Progress** I worked on some Codewars challenges.
+
+**Thoughts** Didn't have a ton of time today but still knocked out a few more katas.
+
+**Link(s) to work**
+
+1. [Codewars](https://www.codewars.com/users/wildlifehexagon)
+
+
 ### Day 28: 2/1/2017
 
 **Today's Progress** I worked on my Pomodoro clock.
