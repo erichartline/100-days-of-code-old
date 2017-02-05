@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 31: 2/4/2017
+
+**Today's Progress** I worked on my client's website.
+
+**Thoughts** I went back and forth on how I wanted to build this site, trying to decide between using Wordpress or building it from scratch with Bootstrap and/or Flexbox. I spent some time familiarizing myself with Flexbox (some of which was on the FCC beta site) but ultimately decided to use Wordpress. It just seemed like it would be easier for the client to maintain/update in the future. It took me a little bit to get used to using Wordpress again (it has been a couple years at least), but now I'm starting to have some fun playing around with it. Part of me feels bad for not coding this all by hand, but I really think the client will be pleased with the end result. Right now I have the basics in place, just need to make it look good and improve the content.
+
+**Link(s) to work**
+
+1. N/A
+
+### Day 30: 2/3/2017
+
+**Today's Progress** I was going to work on my Pomodoro clock, but I have a new priority now: my first paid client.
+
+**Thoughts** I spent some time researching and examining various business templates, trying to get a feel for what would work best for this firm. My actual coding was fairly light today, just playing around with some Bootstrap stuff.
+
+**Link(s) to work**
+
+1. N/A
+
 ### Day 29: 2/2/2017
 
 **Today's Progress** I worked on some Codewars challenges.
