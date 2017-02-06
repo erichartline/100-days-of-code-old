@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 32: 2/5/2017
+
+**Today's Progress** I worked on my client's website and also played around on HackerRank.
+
+**Thoughts** Aside from a couple JS challenges on HackerRank, my coding today was primarily using CSS. Making good progress on the site!
+
+**Link(s) to work**
+
+1. N/A
+
 ### Day 31: 2/4/2017
 
 **Today's Progress** I worked on my client's website.
