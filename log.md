@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 33: 2/6/2017
+
+**Today's Progress** I worked on my client's website.
+
+**Thoughts** Mostly just CSS/design related work today. I'm going to make time for JavaScript tomorrow, too, because I'm starting to miss it.
+
+**Link(s) to work**
+
+1. N/A
+
 ### Day 32: 2/5/2017
 
 **Today's Progress** I worked on my client's website and also played around on HackerRank.
