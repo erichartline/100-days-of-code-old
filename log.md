@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 34: 2/7/2017
+
+**Today's Progress** I worked on my client's website and also finished a handful of Codewars katas.
+
+**Thoughts** Nothing too noteworthy today, though I did struggle with one kata on Codewars. I was getting all but one test to pass and couldn't figure out why. Turns out it was a coercion bug within the kata itself -- argh. Felt good to get in some JS coding though!
+
+**Link(s) to work**
+
+1. [Codewars](https://www.codewars.com/users/wildlifehexagon)
+
 ### Day 33: 2/6/2017
 
 **Today's Progress** I worked on my client's website.
