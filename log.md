@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 35: 2/8/2017
+
+**Today's Progress** I finished some Codewars katas.
+
+**Thoughts** I started with some of the oldest JS katas and worked through some of them. Tomorrow will be a huge coding day.
+
+**Link(s) to work**
+
+1. [Codewars](https://www.codewars.com/users/wildlifehexagon)
+
 ### Day 34: 2/7/2017
 
 **Today's Progress** I worked on my client's website and also finished a handful of Codewars katas.
